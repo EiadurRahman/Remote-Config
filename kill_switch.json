@@ -1,6 +1,6 @@
 {
     "projects" : 
         {  "nextworld_admin" : {"is_allowed" : true},
-            "site_overlay" : {"enable : true"}
+            "site_overlay" : {"enable" : "true"}
         }
 }
